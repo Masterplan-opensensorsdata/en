@@ -42,12 +42,12 @@ post: architetture
 
 - **MVP** <i class="fa fa-long-arrow-right"></i> the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_Viable_Product) is the goal to which every each user story should comply: it should be a minimal functional outcome. The scope of this outcome is minimal in the sense that it represents the essential elements that define the product. Why it is important to state the user story in terms of MVP? This is because, usually, reduce burdensome activities by keeping development's complexity at the minimum required to accomplish the goal.
 
-- **PDCA Cycle** <i class="fa fa-long-arrow-right"></i> PDCA is the acronyms for *Plan*, *Do*, *Check*, *Act*; These are recursive phases: 
+- **PDCA Cycle** <i class="fa fa-long-arrow-right"></i> PDCA is the acronyms for these recursive phases: 
 
 	1. Plan
 	2. Do
 	3. Check
-	4. Apply
+	4. Act
 
 - **Sprints** <i class="fa fa-long-arrow-right"></i> Sprints, or “time boxes”, have fixed time-frame. A sprint is technically a single PDCA cycle inside the project.
 

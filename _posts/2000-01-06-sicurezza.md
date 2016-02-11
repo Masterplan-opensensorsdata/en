@@ -21,25 +21,25 @@ The safety measures are the set of *prescriptions* and *preventions* needed to e
 
 <i class="fa fa-exclamation-circle"></i> Prescriptions are the conditions by which the building site and its workers can be kept operative, safe and sound. 
 
-<i class="fa fa-question-circle"></i> Preventions are the checks and tests necessary to exploit and manage erros and avoid perils for both the project and the well-being (mental and physical) of workers. 
+<i class="fa fa-question-circle"></i> Preventions are the checks and tests necessary to exploit and manage errors and avoid perils for both the project and the well-being (mental and physical) of workers. 
 
 #### Index
 
-<small>[1. Roles](#roles)</small>
+<small>[1. Roles](#i-ruoli)</small>
 
-<small>[2. Datahats](#datahat)</small>
+<small>[2. Datahats](#i-dati-operai)</small>
 
-<small>[3. User Stories](#the-user-story)</small>
+<small>[3. User Stories](#la-storia-utente)</small>
 
-<small>[4. Tasks](#tasks)</small>
+<small>[4. Tasks](#i-compiti)</small>
 
-<small>[5. Communication time-frame](#communication-time-frame)</small>
+<small>[5. Communication time-frame](#tempi-comunicazione)</small>
 
-<small>[6. Plan](#plan)</small>
+<small>[6. Plan](#pianificare)</small>
 
-<small>[7. Do](#do)</small>
+<small>[7. Do](#fare)</small>
 
-<small>[8. Check](#check)</small>
+<small>[8. Check](#controllare)</small>
 
-<small>[9. Apply](#apply)</small>
+<small>[9. Apply](#applicare)</small>
 
