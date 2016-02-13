@@ -24,7 +24,7 @@ This section is of particular interest to Team Leaders and pertains to Level 4 (
 
 #### <i class="fa fa-question-circle"></i> Preventions
 
-1. Among team leaders, is there agreement on the value of all the user stories.
+1. Among team leaders, is there agreement on the value of all the user stories?
 2. Does composition of the user stories only comprises the minimum elements required?
 3. Among team leaders, is there agreement about the duration of the sprints?
 4. Is the documentation of one user story of any use to the composition of tasks for other user stories?
