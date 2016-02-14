@@ -1,5 +1,5 @@
 ---
-title: WHO iS THE MASTERPLAN AIMED AT?
+title: WHO IS THE MASTERPLAN AIMED AT?
 nav-icon: <i class="fa fa-user-plus"></i>
 bg: rosso
 color: white
